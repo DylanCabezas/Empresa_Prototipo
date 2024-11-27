@@ -1,50 +1,64 @@
-# Welcome to your Expo app 👋
+# 🖥️ **CodeAcademy** 🚀
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+¡Bienvenidos a **CodeAcademy**! 🎉  
+Una app divertida y educativa donde los jóvenes pueden aprender a programar, mejorar sus habilidades y desafiarse a sí mismos a través de rachas y desafíos en diferentes lenguajes de programación. 🌱💻
 
-## Get started
+---
 
-1. Install dependencies
+## 🌟 **¿Qué es CodeAcademy?**
 
-   ```bash
-   npm install
-   ```
+**CodeAcademy** es un espacio innovador diseñado para que los jóvenes aprendan a programar de manera divertida y dinámica. Ya seas principiante o tengas algo de experiencia, **CodeAcademy** tiene algo para ti:
 
-2. Start the app
+- **Desafíos diarios** 🏆
+- **Rachas de codificación** ⏱️
+- **Juegos interactivos** 🎮
+- **Aprende desde cero hasta niveles avanzados** 📚
 
-   ```bash
-    npx expo start
-   ```
+Con una interfaz amigable y accesible, aprenderás **Python**, **JavaScript**, **HTML/CSS** y muchos más. 💡
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🔥 **Características**
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- **Rachas de Programación**: Desafía tus habilidades con retos diarios. Cuanto más tiempo mantengas una racha, mayores recompensas desbloquearás. 🏅
+- **Gamificación**: ¡Programar nunca fue tan divertido! Gana puntos, medallas y premios por completar desafíos y subir de nivel. 🎯
+- **Múltiples Lenguajes**: Aprende diferentes lenguajes de programación como **Python**, **JavaScript**, **Java**, **C++**, y más. 🌐
+- **Tutoriales Interactivos**: Accede a tutoriales paso a paso para dominar nuevos lenguajes de forma práctica y divertida. 📖
+- **Comunidad de Coders**: Únete a nuestra comunidad para compartir tus logros y ayudar a otros en su viaje de aprendizaje. 🤝
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## 🌍 **¿Por qué elegir CodeAcademy?**
 
-```bash
-npm run reset-project
-```
+- **Accesible para todos**: Diseñado para jóvenes de 13 a 25 años, con tutoriales adaptados a diferentes niveles.
+- **Aprende jugando**: Combina el aprendizaje con juegos y desafíos para mantener tu motivación siempre alta. 🎮🚀
+- **Desarrollo de habilidades valiosas**: Mejora tu capacidad de resolver problemas, trabajar en equipo y desarrollar aplicaciones reales. 🔧
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## 🏁 **¡Comienza tu aventura hoy!**
 
-To learn more about developing your project with Expo, look at the following resources:
+1. **Descarga la app** en tu dispositivo móvil. 📲
+2. **Crea una cuenta** y personaliza tu perfil. 🧑‍💻
+3. **Selecciona un desafío** y empieza a programar. ⚡
+4. **Desafía a tus amigos** para ver quién mantiene la racha más larga. 👑
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
+## 📣 **¡Únete a la Comunidad CodeAcademy!**
 
-Join our community of developers creating universal apps.
+Síguenos en nuestras redes sociales para estar al tanto de nuevos desafíos, tutoriales y actualizaciones:
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- Instagram: [@CodeAcademyApp](https://instagram.com/CodeAcademyApp) 📸
+- Twitter: [@CodeAcademyApp](https://twitter.com/CodeAcademyApp) 🐦
+- Discord: [Únete a la comunidad](https://discord.gg/CodeAcademyCommunity) 💬
+
+---
+
+## 📜 **Licencia**
+
+Este proyecto está bajo la licencia [MIT](https://opensource.org/licenses/MIT). ¡Contribuye y comparte! 💻
+
+---
+
+**CodeAcademy** - Porque aprender a programar también puede ser divertido. 🚀🎉
